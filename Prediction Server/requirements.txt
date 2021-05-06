@@ -15,4 +15,4 @@ urllib3==1.25.8
 xgboost==0.90
 flask==1.1.2
 flask-restful==0.3.8
-flask-cors==3.0.8
+flask-cors==3.0.9
